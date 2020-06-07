@@ -1,0 +1,23 @@
+eth - Enemy Territory Hack
+--------------------------------------------------------------------------------
+All configs are accessible in game console by the prefix eth_
+
+Feature:
+- Basic wallhack.
+
+Cvars defaults:
+- eth_wallhack 1
+
+
+Howto des/active it ?
+- In game console type /eth_wallhack 0 or 1
+
+Howto report bug ?
+- In the forum where you get that file, post the file eth.log.gz just after a crash/segfault.
+
+Please feedback. Btw I don't know how many cheaters under Linux/ET !
+
+For linux developer:
+Code contribution are welcome !
+
+EMail not for bug: ascii_128@hotmail.com
